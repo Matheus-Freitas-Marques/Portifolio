@@ -424,6 +424,15 @@ footer {
         font-size: 3rem;
     }
 
+    .cabecalho{
+        margin-top: 100px;
+    }
+
+    img.foto-perfil{
+       width: 280px;
+       height: 280px;
+    }
+
     .habilidades{
         flex-wrap: wrap;
         gap: 10px;
