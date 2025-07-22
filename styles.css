@@ -421,7 +421,7 @@ footer {
 @media screen and (max-width: 720px) {
 
     h1{
-        font-size: 2.8rem;
+        font-size: 2rem;
     }
 
     .cabecalho{
@@ -429,8 +429,8 @@ footer {
     }
 
     img.foto-perfil{
-       width: 230px;
-       height: 230px;
+       width: 210px;
+       height: 210px;
     }
 
     .habilidades{
