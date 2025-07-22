@@ -424,6 +424,10 @@ footer {
         font-size: 2rem;
     }
 
+    .navegacao{
+        padding: 1.2rem
+    }
+
     .cabecalho{
         margin-top: 100px;
     }
