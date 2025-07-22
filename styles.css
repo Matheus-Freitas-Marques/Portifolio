@@ -424,6 +424,10 @@ footer {
         font-size: 2rem;
     }
 
+    .cursor{
+        display: none;
+    }
+
     .menu-link{
         font-size: 0.8em;
     }
