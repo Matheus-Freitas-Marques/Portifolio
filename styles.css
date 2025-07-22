@@ -68,6 +68,7 @@ body {
 }
 
 .cursor{
+    cursor: none;
     pointer-events: none;
     position: fixed;
     width: 15px;
