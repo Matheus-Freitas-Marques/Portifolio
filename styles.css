@@ -377,7 +377,7 @@ h1:hover{
 
 .botoes-contato {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 30px;
     justify-content: center;
     align-items: center;
